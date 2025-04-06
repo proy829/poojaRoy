@@ -1,6 +1,6 @@
 # poojaRoy
-Hello my name is Pooja!
+Hello my name is Pooja! And this is my 
 <br>
-And this is my first Git Repository.
+first Git Repository.
 <br>
 Author - Pooja Roy
