@@ -1,3 +1,4 @@
 # poojaRoy
-this is my first Git Repository
-author - pooja roy
+This is my first Git Repository.
+<br>
+Author - Pooja Roy
